@@ -973,49 +973,49 @@
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="Julius Springer" target="Jeremias Gotthelf / Albert Bitzius" weight="106.0">
+      <edge id="0" source="Julius Springer" target="Jeremias Gotthelf / Albert Bitzius" weight="12.0">
         <viz:color r="0" g="109" b="44"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/yFCVg5ypQJaYTOUg1w3PmA"/>
         </attvalues>
       </edge>
-      <edge id="2" source="Franz Louis Jent" target="Jeremias Gotthelf / Albert Bitzius" weight="31.0">
+      <edge id="2" source="Franz Louis Jent" target="Jeremias Gotthelf / Albert Bitzius" weight="5.5">
         <viz:color r="159" g="217" b="201"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/y7fpnVT7Tz-X8-KBnQLMlQ"/>
         </attvalues>
       </edge>
-      <edge id="3" source="Jeremias Gotthelf / Albert Bitzius" target="Christian Beyel" weight="14.0">
+      <edge id="3" source="Jeremias Gotthelf / Albert Bitzius" target="Christian Beyel" weight="4.0">
         <viz:color r="203" g="234" b="229"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/yfwH1sIwRWG8wc7NbVTasg"/>
         </attvalues>
       </edge>
-      <edge id="5" source="Jeremias Gotthelf / Albert Bitzius" target="Carl Mager" weight="3.0">
+      <edge id="5" source="Jeremias Gotthelf / Albert Bitzius" target="Carl Mager" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/ZHF_MovTROCJIRbWGuuy-w"/>
         </attvalues>
       </edge>
-      <edge id="6" source="Jeremias Gotthelf / Albert Bitzius" target="Julius Springer" weight="85.0">
+      <edge id="6" source="Jeremias Gotthelf / Albert Bitzius" target="Julius Springer" weight="10.2">
         <viz:color r="40" g="143" b="92"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/ypyXRjSpRPOq4dHfJkmUnw"/>
         </attvalues>
       </edge>
-      <edge id="7" source="Adam Müller" target="Jeremias Gotthelf / Albert Bitzius" weight="2.0">
+      <edge id="7" source="Adam Müller" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/M77z8P90SIS6Ko4rUpK9kg"/>
         </attvalues>
       </edge>
-      <edge id="10" source="Georg Wigand" target="Jeremias Gotthelf / Albert Bitzius" weight="16.0">
+      <edge id="10" source="Georg Wigand" target="Jeremias Gotthelf / Albert Bitzius" weight="4.2">
         <viz:color r="198" g="232" b="226"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/tJE7wyYYQIaH0dbYbiPUKA"/>
         </attvalues>
       </edge>
-      <edge id="12" source="(Daniel) August (Ehrenfried) Stöber" target="Jeremias Gotthelf / Albert Bitzius" weight="10.0">
+      <edge id="12" source="(Daniel) August (Ehrenfried) Stöber" target="Jeremias Gotthelf / Albert Bitzius" weight="3.7">
         <viz:color r="213" g="238" b="236"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/kQWL7biPQmqPKY6g086Qpg"/>
@@ -1027,97 +1027,97 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/0r2IMnRUQqSbUvftN9WSSQ"/>
         </attvalues>
       </edge>
-      <edge id="18" source="Gotthilf Ferdinand Döhner" target="Jeremias Gotthelf / Albert Bitzius" weight="12.0">
+      <edge id="18" source="Gotthilf Ferdinand Döhner" target="Jeremias Gotthelf / Albert Bitzius" weight="3.9">
         <viz:color r="208" g="236" b="232"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/y0tw381jR1KKIQH4Gr-uRQ"/>
         </attvalues>
       </edge>
-      <edge id="20" source="Jeremias Gotthelf / Albert Bitzius" target="Georg Wigand" weight="10.0">
+      <edge id="20" source="Jeremias Gotthelf / Albert Bitzius" target="Georg Wigand" weight="3.7">
         <viz:color r="213" g="238" b="236"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/kfT9Rhk3QveBiMlQfwMyEQ"/>
         </attvalues>
       </edge>
-      <edge id="23" source="Marie Springer" target="Jeremias Gotthelf / Albert Bitzius" weight="2.0">
+      <edge id="23" source="Marie Springer" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/ppRWDsnyR7mEJ1xpQ0y11w"/>
         </attvalues>
       </edge>
-      <edge id="24" source="Eduard (Ludwig Friedrich) Avenarius" target="Jeremias Gotthelf / Albert Bitzius" weight="4.0">
+      <edge id="24" source="Eduard (Ludwig Friedrich) Avenarius" target="Jeremias Gotthelf / Albert Bitzius" weight="3.2">
         <viz:color r="229" g="244" b="246"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/xRm0grSVQ3yjNjsumycDJQ"/>
         </attvalues>
       </edge>
-      <edge id="25" source="Friedrich von Tschudi" target="Jeremias Gotthelf / Albert Bitzius" weight="10.0">
+      <edge id="25" source="Friedrich von Tschudi" target="Jeremias Gotthelf / Albert Bitzius" weight="3.7">
         <viz:color r="213" g="238" b="236"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/lH3npiinToqpv-G6StBIyA"/>
         </attvalues>
       </edge>
-      <edge id="27" source="Jeremias Gotthelf / Albert Bitzius" target="Franz Louis Jent" weight="14.0">
+      <edge id="27" source="Jeremias Gotthelf / Albert Bitzius" target="Franz Louis Jent" weight="4.0">
         <viz:color r="203" g="234" b="229"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/zXb-zGcOQDK1WcxyUFLbCw"/>
         </attvalues>
       </edge>
-      <edge id="30" source="Otto (Carl) Meißner" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
+      <edge id="30" source="Otto (Carl) Meißner" target="Jeremias Gotthelf / Albert Bitzius" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/g5kl7X04Rw29BKAwM0L7TA"/>
         </attvalues>
       </edge>
-      <edge id="32" source="Jeremias Gotthelf / Albert Bitzius" target="Heinrich Remigius Sauerländer" weight="4.0">
+      <edge id="32" source="Jeremias Gotthelf / Albert Bitzius" target="Heinrich Remigius Sauerländer" weight="3.2">
         <viz:color r="229" g="244" b="246"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/vd_J1BZLTlGZfG7KIED_3g"/>
         </attvalues>
       </edge>
-      <edge id="34" source="Jeremias Gotthelf / Albert Bitzius" target="Johann Caspar Mörikofer" weight="6.0">
+      <edge id="34" source="Jeremias Gotthelf / Albert Bitzius" target="Johann Caspar Mörikofer" weight="3.3">
         <viz:color r="224" g="242" b="242"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/ultjU5CgTrSdYrYJNLfVJw"/>
         </attvalues>
       </edge>
-      <edge id="37" source="Heinrich Remigius Sauerländer" target="Jeremias Gotthelf / Albert Bitzius" weight="2.0">
+      <edge id="37" source="Heinrich Remigius Sauerländer" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/vWgt6rM-S6qh7lDGGOWPUw"/>
         </attvalues>
       </edge>
-      <edge id="38" source="Jeremias Gotthelf / Albert Bitzius" target="Friedrich von Tschudi" weight="11.0">
+      <edge id="38" source="Jeremias Gotthelf / Albert Bitzius" target="Friedrich von Tschudi" weight="3.8">
         <viz:color r="211" g="237" b="234"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/xAJfJ7oFTkmdGml_E8sLFQ"/>
         </attvalues>
       </edge>
-      <edge id="41" source="Jeremias Gotthelf / Albert Bitzius" target="Gotthilf Ferdinand Döhner" weight="10.0">
+      <edge id="41" source="Jeremias Gotthelf / Albert Bitzius" target="Gotthilf Ferdinand Döhner" weight="3.7">
         <viz:color r="213" g="238" b="236"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/vSp7l6NWTXKEo4oNzq47_Q"/>
         </attvalues>
       </edge>
-      <edge id="52" source="Jeremias Gotthelf / Albert Bitzius" target="Eduard Hallberger" weight="4.0">
+      <edge id="52" source="Jeremias Gotthelf / Albert Bitzius" target="Eduard Hallberger" weight="3.2">
         <viz:color r="229" g="244" b="246"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/w2_T95UIQ7mKH0kpaG3Exg"/>
         </attvalues>
       </edge>
-      <edge id="53" source="Jeremias Gotthelf / Albert Bitzius" target="Christian Gottlob Kunze" weight="2.0">
+      <edge id="53" source="Jeremias Gotthelf / Albert Bitzius" target="Christian Gottlob Kunze" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/FFZOsuszRAi0sESLYmqa3A"/>
         </attvalues>
       </edge>
-      <edge id="55" source="Christian Beyel" target="Jeremias Gotthelf / Albert Bitzius" weight="13.0">
+      <edge id="55" source="Christian Beyel" target="Jeremias Gotthelf / Albert Bitzius" weight="4.0">
         <viz:color r="206" g="235" b="231"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/ycmNQWzYQRSLHh5zL5p0EA"/>
         </attvalues>
       </edge>
-      <edge id="56" source="Jeremias Gotthelf / Albert Bitzius" target="Heinrich Pröhle" weight="9.0">
+      <edge id="56" source="Jeremias Gotthelf / Albert Bitzius" target="Heinrich Pröhle" weight="3.6">
         <viz:color r="216" g="239" b="237"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/u5wlO2XETaCfeceLmTyAHw"/>
@@ -1129,19 +1129,19 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/606wAzGTTui5YmUFRFGQUA"/>
         </attvalues>
       </edge>
-      <edge id="59" source="Heinrich Pröhle" target="Jeremias Gotthelf / Albert Bitzius" weight="11.0">
+      <edge id="59" source="Heinrich Pröhle" target="Jeremias Gotthelf / Albert Bitzius" weight="3.8">
         <viz:color r="211" g="237" b="234"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/ux7Uy4uGQ9G6GWwIfvkcIw"/>
         </attvalues>
       </edge>
-      <edge id="63" source="Jeremias Gotthelf / Albert Bitzius" target="Carl Rätzer" weight="5.0">
+      <edge id="63" source="Jeremias Gotthelf / Albert Bitzius" target="Carl Rätzer" weight="3.3">
         <viz:color r="226" g="243" b="244"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/wMMSK5J1Ra2uIZNn-G1vSw"/>
         </attvalues>
       </edge>
-      <edge id="69" source="(Samuel) Gottlieb Hünerwadel" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
+      <edge id="69" source="(Samuel) Gottlieb Hünerwadel" target="Jeremias Gotthelf / Albert Bitzius" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/dgYyrcqBTtqxm05XzImgpA"/>
@@ -1153,13 +1153,13 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/7hcXS3buQu6UzgBekcF9rg"/>
         </attvalues>
       </edge>
-      <edge id="72" source="Jeremias Gotthelf / Albert Bitzius" target="Heinrich Brockhaus" weight="2.0">
+      <edge id="72" source="Jeremias Gotthelf / Albert Bitzius" target="Heinrich Brockhaus" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/YDT1c0IwQIK3t4lPJmXBoA"/>
         </attvalues>
       </edge>
-      <edge id="74" source="Jeremias Gotthelf / Albert Bitzius" target="(August) Friedrich (Emanuel) Ludwig" weight="3.0">
+      <edge id="74" source="Jeremias Gotthelf / Albert Bitzius" target="(August) Friedrich (Emanuel) Ludwig" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/idKKflgdRA-nDqSq_VS1Gg"/>
@@ -1177,19 +1177,19 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/8bJ0CECaTEOrqYXwX89wiw"/>
         </attvalues>
       </edge>
-      <edge id="79" source="Christian Gottlob Kunze" target="Jeremias Gotthelf / Albert Bitzius" weight="4.0">
+      <edge id="79" source="Christian Gottlob Kunze" target="Jeremias Gotthelf / Albert Bitzius" weight="3.2">
         <viz:color r="229" g="244" b="246"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/jYYOXTIISkiHhvy0TJ92Sw"/>
         </attvalues>
       </edge>
-      <edge id="81" source="Johann Caspar Mörikofer" target="Jeremias Gotthelf / Albert Bitzius" weight="5.0">
+      <edge id="81" source="Johann Caspar Mörikofer" target="Jeremias Gotthelf / Albert Bitzius" weight="3.3">
         <viz:color r="226" g="243" b="244"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/tv1S-nplR_eGGoXpTNr4eQ"/>
         </attvalues>
       </edge>
-      <edge id="82" source="Gustav Mayer" target="Jeremias Gotthelf / Albert Bitzius" weight="11.0">
+      <edge id="82" source="Gustav Mayer" target="Jeremias Gotthelf / Albert Bitzius" weight="3.8">
         <viz:color r="211" g="237" b="234"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/vXc2h9-KS6W5qsr55NaeYA"/>
@@ -1207,73 +1207,73 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/9WiJTB3xSA2hMOZ7F2WznA"/>
         </attvalues>
       </edge>
-      <edge id="96" source="Ferdinand Schmidt" target="Jeremias Gotthelf / Albert Bitzius" weight="2.0">
+      <edge id="96" source="Ferdinand Schmidt" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/I7V-SIayRFyUUIG0UyPC4w"/>
         </attvalues>
       </edge>
-      <edge id="98" source="Eduard Hallberger" target="Jeremias Gotthelf / Albert Bitzius" weight="6.0">
+      <edge id="98" source="Eduard Hallberger" target="Jeremias Gotthelf / Albert Bitzius" weight="3.3">
         <viz:color r="224" g="242" b="242"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/m1FvLcBrQGeh5ZLa4RxhXg"/>
         </attvalues>
       </edge>
-      <edge id="99" source="Jeremias Gotthelf / Albert Bitzius" target="Carl Langlois" weight="2.0">
+      <edge id="99" source="Jeremias Gotthelf / Albert Bitzius" target="Carl Langlois" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/xbU5umXuTEG3oCIFmlodQQ"/>
         </attvalues>
       </edge>
-      <edge id="112" source="Jeremias Gotthelf / Albert Bitzius" target="Irenäus Gersdorf" weight="4.0">
+      <edge id="112" source="Jeremias Gotthelf / Albert Bitzius" target="Irenäus Gersdorf" weight="3.2">
         <viz:color r="229" g="244" b="246"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/bgAEl_k7Qm2dPTEGyiYjyw"/>
         </attvalues>
       </edge>
-      <edge id="116" source="(August) Friedrich (Emanuel) Ludwig" target="Jeremias Gotthelf / Albert Bitzius" weight="6.0">
+      <edge id="116" source="(August) Friedrich (Emanuel) Ludwig" target="Jeremias Gotthelf / Albert Bitzius" weight="3.3">
         <viz:color r="224" g="242" b="242"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/zoMzy_4YSMGDU04tyBPi9w"/>
         </attvalues>
       </edge>
-      <edge id="118" source="Karl Gutknecht" target="Jeremias Gotthelf / Albert Bitzius" weight="8.0">
+      <edge id="118" source="Karl Gutknecht" target="Jeremias Gotthelf / Albert Bitzius" weight="3.5">
         <viz:color r="219" g="240" b="239"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/wv8ph96GRlyNd4hcMHZGkg"/>
         </attvalues>
       </edge>
-      <edge id="125" source="Josef Anton Henne" target="Jeremias Gotthelf / Albert Bitzius" weight="2.0">
+      <edge id="125" source="Josef Anton Henne" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/JdZRHF2BRZKfEmlxHknIdA"/>
         </attvalues>
       </edge>
-      <edge id="126" source="Moses Simion" target="Jeremias Gotthelf / Albert Bitzius" weight="8.0">
+      <edge id="126" source="Moses Simion" target="Jeremias Gotthelf / Albert Bitzius" weight="3.5">
         <viz:color r="219" g="240" b="239"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/mg5VGIIPSW-BBRQMcZqbgw"/>
         </attvalues>
       </edge>
-      <edge id="127" source="Ferdinand Karl Wilhelm Piper" target="Jeremias Gotthelf / Albert Bitzius" weight="4.0">
+      <edge id="127" source="Ferdinand Karl Wilhelm Piper" target="Jeremias Gotthelf / Albert Bitzius" weight="3.2">
         <viz:color r="229" g="244" b="246"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/T0CDfsTzTpaTKRwdfHwmxw"/>
         </attvalues>
       </edge>
-      <edge id="132" source="Jeremias Gotthelf / Albert Bitzius" target="Salomon Höhr" weight="2.0">
+      <edge id="132" source="Jeremias Gotthelf / Albert Bitzius" target="Salomon Höhr" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/eMU05iBcRLKKpb3vNluiHg"/>
         </attvalues>
       </edge>
-      <edge id="134" source="Jeremias Gotthelf / Albert Bitzius" target="Christian Wiedmer" weight="3.0">
+      <edge id="134" source="Jeremias Gotthelf / Albert Bitzius" target="Christian Wiedmer" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/ryzfXopJR8CJ-rDkjvHYZQ"/>
         </attvalues>
       </edge>
-      <edge id="140" source="Jeremias Gotthelf / Albert Bitzius" target="(Daniel) August (Ehrenfried) Stöber" weight="12.0">
+      <edge id="140" source="Jeremias Gotthelf / Albert Bitzius" target="(Daniel) August (Ehrenfried) Stöber" weight="3.9">
         <viz:color r="208" g="236" b="232"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/tcIt8F__Q1OQy2AGNkBtcA"/>
@@ -1291,7 +1291,7 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/F5kNwt3URnWBtMekOdVVfw"/>
         </attvalues>
       </edge>
-      <edge id="159" source="Jeremias Gotthelf / Albert Bitzius" target="Christian Albrecht Jenni" weight="3.0">
+      <edge id="159" source="Jeremias Gotthelf / Albert Bitzius" target="Christian Albrecht Jenni" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/nkGu5Lm0QiSJ2XCKyLbQzQ"/>
@@ -1309,13 +1309,13 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/HO_ObP98QAqGRZI-btW97w"/>
         </attvalues>
       </edge>
-      <edge id="174" source="Jeremias Gotthelf / Albert Bitzius" target="Gustav Mayer" weight="7.0">
+      <edge id="174" source="Jeremias Gotthelf / Albert Bitzius" target="Gustav Mayer" weight="3.4">
         <viz:color r="221" g="241" b="241"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/wpkqYCk6StqE1nPZ7gtVYA"/>
         </attvalues>
       </edge>
-      <edge id="175" source="Christian Albrecht Jenni" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
+      <edge id="175" source="Christian Albrecht Jenni" target="Jeremias Gotthelf / Albert Bitzius" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/eMX5u0qORvmgrQ0XFOsc-g"/>
@@ -1333,7 +1333,7 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/JmjloUwXSKyKbPsvBvULIA"/>
         </attvalues>
       </edge>
-      <edge id="193" source="Jeremias Gotthelf / Albert Bitzius" target="Moses Simion" weight="3.0">
+      <edge id="193" source="Jeremias Gotthelf / Albert Bitzius" target="Moses Simion" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/t7sNySZ_Tam313fnDySMBg"/>
@@ -1345,7 +1345,7 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/K8hFn5TgTBWMxZT4Uk-bSA"/>
         </attvalues>
       </edge>
-      <edge id="217" source="Carl Mager" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
+      <edge id="217" source="Carl Mager" target="Jeremias Gotthelf / Albert Bitzius" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/y_cpGUr3QmKgtDAIstdWcg"/>
@@ -1369,19 +1369,19 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/QPRQi9l5TkOGa8AJnEp-AA"/>
         </attvalues>
       </edge>
-      <edge id="263" source="Salomon Höhr" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
+      <edge id="263" source="Salomon Höhr" target="Jeremias Gotthelf / Albert Bitzius" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/eM8J3pvkSoa-EvcXgxTRhQ"/>
         </attvalues>
       </edge>
-      <edge id="268" source="Irenäus Gersdorf" target="Jeremias Gotthelf / Albert Bitzius" weight="5.0">
+      <edge id="268" source="Irenäus Gersdorf" target="Jeremias Gotthelf / Albert Bitzius" weight="3.3">
         <viz:color r="226" g="243" b="244"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/tjge5LxaTai3WUdBniJD5g"/>
         </attvalues>
       </edge>
-      <edge id="272" source="Jeremias Gotthelf / Albert Bitzius" target="(Samuel) Gottlieb Hünerwadel" weight="2.0">
+      <edge id="272" source="Jeremias Gotthelf / Albert Bitzius" target="(Samuel) Gottlieb Hünerwadel" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/a3dlyuwOSGeFzOgVG0GWTw"/>
@@ -1399,7 +1399,7 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/TugY10aYQu6n8xjfg3mD5g"/>
         </attvalues>
       </edge>
-      <edge id="291" source="Jeremias Gotthelf / Albert Bitzius" target="Ferdinand Karl Wilhelm Piper" weight="2.0">
+      <edge id="291" source="Jeremias Gotthelf / Albert Bitzius" target="Ferdinand Karl Wilhelm Piper" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/b30sZiOiQYuHdsz9bFcW8A"/>
@@ -1429,7 +1429,7 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/XDCZrVsBSt-mSIHMRylBKA"/>
         </attvalues>
       </edge>
-      <edge id="330" source="Johannes Körber" target="Jeremias Gotthelf / Albert Bitzius" weight="2.0">
+      <edge id="330" source="Johannes Körber" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/nBqB1_dBTo2HCkYNv_cWUg"/>
@@ -1441,7 +1441,7 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/bF6DVkh-SamqjExArcPe-w"/>
         </attvalues>
       </edge>
-      <edge id="369" source="Carl Rätzer" target="Jeremias Gotthelf / Albert Bitzius" weight="4.0">
+      <edge id="369" source="Carl Rätzer" target="Jeremias Gotthelf / Albert Bitzius" weight="3.2">
         <viz:color r="229" g="244" b="246"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/yWsUlkizQQ2YNkIl0Llmxg"/>
@@ -1465,13 +1465,13 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/fnBBajfeRgubPs3qO4zQOA"/>
         </attvalues>
       </edge>
-      <edge id="403" source="Jeremias Gotthelf / Albert Bitzius" target="Karl Gutknecht" weight="3.0">
+      <edge id="403" source="Jeremias Gotthelf / Albert Bitzius" target="Karl Gutknecht" weight="3.1">
         <viz:color r="231" g="245" b="247"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/rF-UM39YT--jwt3v-Ep10Q"/>
         </attvalues>
       </edge>
-      <edge id="407" source="Jeremias Gotthelf / Albert Bitzius" target="Ferdinand Schmidt" weight="2.0">
+      <edge id="407" source="Jeremias Gotthelf / Albert Bitzius" target="Ferdinand Schmidt" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/lON3xhu7TDKG8zlZktXQaA"/>
@@ -1489,7 +1489,7 @@
           <attvalue for="letter_id" value="http://rdfh.ch/0862/jFOevw1gSXmCj1UxUfLdNw"/>
         </attvalues>
       </edge>
-      <edge id="432" source="(Samuel) Friedrich Jenni" target="Jeremias Gotthelf / Albert Bitzius" weight="2.0">
+      <edge id="432" source="(Samuel) Friedrich Jenni" target="Jeremias Gotthelf / Albert Bitzius" weight="3.0">
         <viz:color r="234" g="246" b="249"/>
         <attvalues>
           <attvalue for="letter_id" value="http://rdfh.ch/0862/sUPwiaCEQkGfF2Y08PluWw"/>
