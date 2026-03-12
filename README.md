@@ -1,5 +1,7 @@
 # Gotthelf Network — Interactive Graph Visualization
 
+**Live → https://rafapolo.github.io/daschViz/**
+
 ![app screenshot](app.jpg)
 
 A fullscreen interactive visualization of the correspondence network from **daschViz**, a Digital Humanities project exploring the epistolary network of [Jeremias Gotthelf](https://en.wikipedia.org/wiki/Jeremias_Gotthelf) (Albert Bitzius, 1797–1854), the Swiss author and pastor.
@@ -31,7 +33,7 @@ The GEXF is loaded directly — no preprocessing needed.
 - [Sigma.js](https://www.sigmajs.org/) — WebGL graph renderer
 - [Graphology](https://graphology.github.io/) — graph data structure + GEXF parser
 - [ForceAtlas2](https://graphology.github.io/standard-library/layout-forceatlas2) — force layout
-- [Vite](https://vite.dev/) + TypeScript
+- [Vite](https://vite.dev/) + TypeScript + Bun
 
 ## Data context
 
