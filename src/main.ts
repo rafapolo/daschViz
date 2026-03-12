@@ -4,7 +4,7 @@ import { Sigma } from 'sigma'
 import forceAtlas2 from 'graphology-layout-forceatlas2'
 
 async function init() {
-  const gexf = await fetch('/gotthelf_network.gexf').then(r => r.text())
+  const gexf = await fetch(import.meta.env.BASE_URL + 'gotthelf_network.gexf').then(r => r.text())
   const graph = parse(Graph, gexf)
 
   graph.forEachNode((node, attrs) => {
